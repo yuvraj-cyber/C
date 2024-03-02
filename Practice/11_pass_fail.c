@@ -31,7 +31,7 @@
 
     else 
         {
-            printf("Great! you Pass. ");
+            printf("Great! You Pass. ");
         }
 
     return 0;
